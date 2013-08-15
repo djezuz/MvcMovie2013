@@ -8,6 +8,7 @@ namespace MvcMovie2013
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            //Test
         }
     }
 }
