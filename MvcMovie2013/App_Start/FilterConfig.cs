@@ -7,7 +7,6 @@ namespace MvcMovie2013
     {
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
-            //Oleg 
             filters.Add(new HandleErrorAttribute());
         }
     }
