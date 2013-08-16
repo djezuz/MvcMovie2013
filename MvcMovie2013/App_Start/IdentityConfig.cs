@@ -13,7 +13,7 @@ using MvcMovie2013.Models;
 
 namespace MvcMovie2013
 {
-    // For more information on ASP.NET Identity, visit http://go.microsoft.com/fwlink/?LinkId=301863
+    // For more information on ASP.NET Identity, visit test http://go.microsoft.com/fwlink/?LinkId=301863
     public static class IdentityConfig 
     {
         public const string LocalLoginProvider = "Local";

@@ -91,6 +91,7 @@ namespace MvcMovie2013.Models
         public string Id { get; set; }
     }
 
+    //testing Oleg
     public class IdentityDbContext : DbContext
     {
         public IdentityDbContext()
